@@ -66,3 +66,33 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+
+### PROJECT NOTES
+
+# this project will have
+- google user authentication with firebase
+- material UI
+- firebase DB ( firestore)
+- responsive design
+- React Context API
+
+Installed packages:
+npm i firebase
+npm i react-router-dom 
+npm install @material-ui/core
+npm install @material-ui/icons
+
+# Firebase commands:
+- firebase login
+- firebase init
+    y
+    hosting: configure and deploy firebase hosting sites
+    Using an existing project
+        pick project...
+    public directory?  build 
+    Y  - react is single page app
+- firebase deploy    
+
+- URL of deployed project: https://whats-app-clone-66b54.web.app/
